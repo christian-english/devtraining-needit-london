@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 22:15:21</sys_created_on>
+        <sys_id>4d0c8db7dbd03300acf8112039961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_4d0c8db7dbd03300acf8112039961972</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 22:15:21</sys_updated_on>
+        <title><![CDATA[<div align="center">
+<table class="MsoNormalTable" style="width: 100.0%; border-collapse: collapse; border-color: #d0cece; background-color: #d0cece;" border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr style="height: 41.85pt;"><td style="width: 14.6%; background: #D0CECE; padding: 0in 5.4pt 0in 5.4pt; height: 41.85pt;" width="14%">
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 16.0pt; font-family: &#39;Dubai Medium&#39;,sans-serif; color: white;"><img style="height: .479in; width: 1.135in;" src="/sys_attachment.do?sys_id&#61;e53c4df7dbd03300acf811203996192b" alt="cid:image001.png&#64;01D4A8CC.F3D69C70" width="109" height="46" /></span></p>
+</td><td style="width: 85.4%; background: #D0CECE; padding: 0in 5.4pt 0in 5.4pt; height: 41.85pt;" width="85%">
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 18.0pt; font-family: &#39;Dubai Medium&#39;,sans-serif;">Contractor Presence</span></p>
+</td></tr></tbody></table>
+</div>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=4d0c8db7dbd03300acf8112039961972"/>
+</record_update>
